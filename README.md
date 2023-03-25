@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Ethan Hutchins @ethanjhutchins
-- 👀 I’m interested in indie game dev, ROS dev and sports analytics. 
-- 🌱 I’m currently learning Scala and the Python library rospy (for ROS). 
-- 💞️ I’m looking to collaborate on smaller Java, C++ or Python projects to increase my experience in those languages. 
+- Hi, I’m Ethan Hutchins @ethanjhutchins
+- I’m interested in indie game dev, ROS dev and sports analytics.  
+- I’m looking to collaborate on smaller Java, JS or Python projects to increase my experience in those languages. 
 - 📫 Contact me via email: ethanjameshutchins@gmail.com 
 
 <!---
